@@ -1,0 +1,73 @@
+header{
+    font-size: 50px;
+    font-weight: 500;
+}
+
+article{
+    display: flex;
+    justify-content: 
+    center;
+    }
+
+.samboo {
+    width: 100%;
+    background-color: #ccc;
+    object-fit: cover;
+}
+
+main{
+    font-size: 30px;
+    font-weight: 500;
+}
+
+footer{
+    font-size: 30px;
+    font-weight: 500;
+}
+
+/*.murr {
+    width: 100%;
+    background-color: #ccc;
+    object-fit: cover;
+}
+
+.gaii {
+    width: 100%;
+    background-color: #ccc;
+    object-fit:contain;
+}
+
+.vvict {
+    width: 100%;
+    background-color: #ccc;
+    object-fit: cover;
+}*/
+
+body{
+    background-color: #ffffff;
+}
+
+img {
+    border-radius: 30px;
+    object-fit:;
+}
+
+/*Медиа-запрос для ширины 320px - мобильные устройства*/
+@media (min-width: 320px) { 
+    overflow: hidden;
+}
+
+/*Медиа-запрос для ширины 768px - планшеты*/
+@media (min-width: 768px) { 
+    /*Стили для минимальной ширины в 768px*/
+}
+
+/*Медиа-запрос для ширины 1200px - десктопы*/
+@media (min-width: 1200px) { 
+    /*Стили для минимальной ширины в 1200px*/
+}
+
+/*Медиа-запрос для ширины 1400px - большие экраны*/
+@media (min-width: 1400px) { 
+    /*Стили для минимальной ширины в 1400px*/
+}
